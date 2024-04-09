@@ -2,7 +2,7 @@
 
 namespace Kata;
 
-class Main
+class LeapYear
 {
     public function handle(): bool
     {

@@ -3,15 +3,15 @@
 namespace Kata;
 
 use PHPUnit\Framework\TestCase;
-use Kata\Main;
+use Kata\LeapYear;
 
-class MainTest extends TestCase
+class LeapYearTest extends TestCase
 {
-    private Main $main;
+    private LeapYear $main;
 
     protected function setUp(): void
     {
-        $this->main = new Main();
+        $this->main = new LeapYear();
     }
 
     public function testShallPass(): void
