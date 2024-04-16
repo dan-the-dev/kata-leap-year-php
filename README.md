@@ -38,3 +38,18 @@ After dependencies are installed, you can run tests via `make test`.
 
 From now on, you can start with the Kata. 
 I suggest you refactor names at first: for example, for `FizzBuzz` kata, I renamed the classes to `FizzBuzz` and `FizzBuzzTest`.
+
+### Test list
+
+- [ ] 2017 standard non leap year
+- [ ] 2018 standard non leap year
+- [ ] 2019 standard non leap year
+- [ ] 2008 standard leap year
+- [ ] 2012 standard leap year
+- [ ] 2016 standard leap year
+- [ ] 1700 century non leap year
+- [ ] 1800 century non leap year
+- [ ] 2100 century non leap year
+- [ ] 1600 century leap year
+- [ ] 2000 century leap year
+- [ ] 2400 century leap year
