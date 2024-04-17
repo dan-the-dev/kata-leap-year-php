@@ -5,3 +5,6 @@ install:
 
 test:
 	docker-compose run main vendor/phpunit/phpunit/phpunit
+
+reset:
+	git checkout -f master
